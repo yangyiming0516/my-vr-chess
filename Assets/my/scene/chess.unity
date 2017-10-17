@@ -239,6 +239,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &33690829
 GameObject:
   m_ObjectHideFlags: 0
@@ -542,6 +543,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 822096724}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &84060257
 GameObject:
@@ -917,6 +919,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &135100333
 GameObject:
@@ -1015,6 +1018,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &148681202
 Prefab:
@@ -1231,6 +1235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1001 &209486959
 Prefab:
   m_ObjectHideFlags: 0
@@ -1394,6 +1399,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &235020914
 GameObject:
@@ -1492,6 +1498,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 322228048}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &238838808
 GameObject:
@@ -1654,6 +1661,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &277805015
 GameObject:
   m_ObjectHideFlags: 0
@@ -1995,6 +2003,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &307027519
 GameObject:
   m_ObjectHideFlags: 0
@@ -2092,6 +2101,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &313171111
 Prefab:
@@ -2256,6 +2266,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &322228048 stripped
 GameObject:
@@ -2274,6 +2285,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &325045895
 GameObject:
   m_ObjectHideFlags: 0
@@ -2555,6 +2567,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &337060787
 GameObject:
   m_ObjectHideFlags: 0
@@ -2652,6 +2665,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &349495825
 Prefab:
@@ -2736,6 +2750,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &368021370 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: dab6c0dea21994386a57acc588faa9e5, type: 3}
@@ -2753,6 +2768,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1001 &368245471
 Prefab:
   m_ObjectHideFlags: 0
@@ -2972,6 +2988,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   next: 0
   occupied_grid: {fileID: 0}
+  next_grid: {fileID: 0}
   status: 0
 --- !u!1 &386365168
 GameObject:
@@ -3218,6 +3235,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &424703433
 GameObject:
   m_ObjectHideFlags: 0
@@ -3315,6 +3333,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &435189345
 GameObject:
@@ -3413,6 +3432,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &460749041
 Prefab:
@@ -3667,6 +3687,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &474133598
 GameObject:
@@ -3765,6 +3786,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &486909104
 GameObject:
@@ -3863,6 +3885,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1566020164}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &492285140
 Prefab:
@@ -4013,6 +4036,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &540655296 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: dab6c0dea21994386a57acc588faa9e5, type: 3}
@@ -4030,6 +4054,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &546731879
 GameObject:
   m_ObjectHideFlags: 0
@@ -4127,6 +4152,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &577184149
 GameObject:
@@ -4339,6 +4365,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &598060354
 GameObject:
@@ -4437,6 +4464,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1974317448}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &599807248
 GameObject:
@@ -4535,6 +4563,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &612114621
 Prefab:
@@ -4685,6 +4714,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &618173111
 GameObject:
   m_ObjectHideFlags: 0
@@ -4782,6 +4812,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &622570438
 GameObject:
@@ -4880,6 +4911,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1056317819}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &628194549
 Prefab:
@@ -5044,6 +5076,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!4 &660918356 stripped
 Transform:
@@ -5095,6 +5128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &687175544 stripped
 GameObject:
   m_PrefabParentObject: {fileID: 100000, guid: dab6c0dea21994386a57acc588faa9e5, type: 3}
@@ -5112,6 +5146,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1001 &690466484
 Prefab:
   m_ObjectHideFlags: 0
@@ -5261,6 +5296,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &718140414
 GameObject:
   m_ObjectHideFlags: 0
@@ -5472,6 +5508,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1266299610}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &721579337
 GameObject:
@@ -5798,6 +5835,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &769732194
 GameObject:
@@ -5852,6 +5890,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1001 &773066203
 Prefab:
   m_ObjectHideFlags: 0
@@ -6015,6 +6054,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &808234770
 GameObject:
@@ -6113,6 +6153,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &820394568
 GameObject:
@@ -6245,6 +6286,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &831831361
 GameObject:
   m_ObjectHideFlags: 0
@@ -6296,6 +6338,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1001 &838806991
 Prefab:
   m_ObjectHideFlags: 0
@@ -6721,6 +6764,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &898650306
 GameObject:
   m_ObjectHideFlags: 0
@@ -6818,6 +6862,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1485955653}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &923268118
 GameObject:
@@ -6916,6 +6961,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &927706228
 GameObject:
@@ -7407,6 +7453,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 11352753}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &1003060701
 Prefab:
@@ -7571,6 +7618,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1032223660
 GameObject:
@@ -7817,6 +7865,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1062643208
 GameObject:
   m_ObjectHideFlags: 0
@@ -8136,6 +8185,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1743888272}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1092031158
 GameObject:
@@ -8234,6 +8284,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 408899926}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1104134842
 GameObject:
@@ -8718,6 +8769,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1557022138}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1124895025
 GameObject:
@@ -8816,6 +8868,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 687164314}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1144542738
 GameObject:
@@ -8914,6 +8967,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1224508409}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1151786761
 GameObject:
@@ -9388,6 +9442,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1224508409 stripped
 GameObject:
@@ -9406,6 +9461,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1225360817
 GameObject:
   m_ObjectHideFlags: 0
@@ -9532,6 +9588,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 615385878}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1245862535 stripped
 GameObject:
@@ -9550,6 +9607,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1247501061
 GameObject:
   m_ObjectHideFlags: 0
@@ -9647,6 +9705,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 710824039}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1250007598
 GameObject:
@@ -10121,6 +10180,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1266881001
 GameObject:
   m_ObjectHideFlags: 0
@@ -10248,6 +10308,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1289267280
 GameObject:
@@ -10574,6 +10635,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 336839914}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &1302237314
 Prefab:
@@ -11066,6 +11128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1337894013
 GameObject:
   m_ObjectHideFlags: 0
@@ -11163,6 +11226,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1887948699}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1350637951
 GameObject:
@@ -11467,6 +11531,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1365136431
 GameObject:
@@ -11565,6 +11630,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 2146817255}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1368512006
 GameObject:
@@ -11811,6 +11877,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1390603882
 GameObject:
   m_ObjectHideFlags: 0
@@ -12136,6 +12203,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 276374777}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1416837380
 GameObject:
@@ -12234,6 +12302,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 190038150}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1448677046
 GameObject:
@@ -12589,6 +12658,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1485955653 stripped
 GameObject:
@@ -12607,6 +12677,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1001 &1504078211
 Prefab:
   m_ObjectHideFlags: 0
@@ -12980,6 +13051,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 772849322}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1552824893
 GameObject:
@@ -13112,6 +13184,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1564685621
 GameObject:
   m_ObjectHideFlags: 0
@@ -13209,6 +13282,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1566020164 stripped
 GameObject:
@@ -13227,6 +13301,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 1
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1001 &1571526867
 Prefab:
   m_ObjectHideFlags: 0
@@ -13618,6 +13693,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1384813790}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1609636834
 GameObject:
@@ -14092,6 +14168,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1763192141
 GameObject:
   m_ObjectHideFlags: 0
@@ -14189,6 +14266,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 540655296}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1765554516
 GameObject:
@@ -14401,6 +14479,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1789247586
 GameObject:
@@ -14499,6 +14578,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 837562205}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1796599384
 GameObject:
@@ -14597,6 +14677,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1807483403
 GameObject:
@@ -14695,6 +14776,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1810415837
 GameObject:
@@ -14822,6 +14904,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 305761815}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1816025376
 GameObject:
@@ -14985,6 +15068,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 525157211}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1851163823
 GameObject:
@@ -15083,6 +15167,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 687175544}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1853072125
 GameObject:
@@ -15311,6 +15396,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1898483085
 GameObject:
   m_ObjectHideFlags: 0
@@ -15636,6 +15722,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 353636075}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1001 &1938861630
 Prefab:
@@ -15800,6 +15887,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 893198414}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1940495819
 GameObject:
@@ -15898,6 +15986,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1949157330
 GameObject:
@@ -15996,6 +16085,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1245862535}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1955590241
 GameObject:
@@ -16094,6 +16184,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &1965356918
 GameObject:
@@ -16340,6 +16431,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
 --- !u!1 &1995076465
 GameObject:
   m_ObjectHideFlags: 0
@@ -16617,6 +16709,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 368021370}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &2006547258
 GameObject:
@@ -16715,6 +16808,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &2020149155
 GameObject:
@@ -17107,6 +17201,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 0}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &2088460880
 GameObject:
@@ -17205,6 +17300,7 @@ MonoBehaviour:
   selected_material: {fileID: 2100000, guid: daad62324deb0cf448e5c805c8459bff, type: 2}
   nextmove_material: {fileID: 2100000, guid: 0edec395166a3244592f3532c7ce794c, type: 2}
   P: {fileID: 1334509864}
+  temp_piece: {fileID: 0}
   B: {fileID: 379781118}
 --- !u!1 &2088996911
 GameObject:
@@ -17665,3 +17761,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   side: 0
   speed: 0
+  B: {fileID: 379781118}
