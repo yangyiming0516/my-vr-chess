@@ -26968,6 +26968,10 @@ Prefab:
       propertyPath: m_RootOrder
       value: 2
       objectReference: {fileID: 0}
+    - target: {fileID: 188242, guid: 7572b8494dca61844ae502ca4d47915f, type: 2}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_ParentPrefab: {fileID: 100100000, guid: 7572b8494dca61844ae502ca4d47915f, type: 2}
   m_IsPrefabParent: 0
@@ -32219,7 +32223,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!108 &1453747384
 Light:
   m_ObjectHideFlags: 0
@@ -32229,7 +32233,7 @@ Light:
   m_Enabled: 1
   serializedVersion: 8
   m_Type: 1
-  m_Color: {r: 0.9476421, g: 0.9558824, b: 0.3584559, a: 1}
+  m_Color: {r: 0.30147058, g: 0.2948205, b: 0.2948205, a: 1}
   m_Intensity: 4.27
   m_Range: 10
   m_SpotAngle: 30
@@ -38700,7 +38704,7 @@ Transform:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1816025376}
   m_LocalRotation: {x: 0.5277184, y: -0.21677832, z: 0.14140174, w: 0.80902785}
-  m_LocalPosition: {x: 3.3, y: 10.87, z: -5.72}
+  m_LocalPosition: {x: 8.9, y: 6, z: -15.4}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
