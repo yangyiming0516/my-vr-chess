@@ -239,7 +239,6 @@ PlayerSettings:
     m_Enabled: 1
     m_Devices:
     - daydream
-    - cardboard
   openGLRequireES31: 0
   openGLRequireES31AEP: 0
   webPlayerTemplate: APPLICATION:Default
@@ -599,9 +598,9 @@ PlayerSettings:
     UNet: 1
   facebookSdkVersion: 7.9.4
   apiCompatibilityLevel: 2
-  cloudProjectId: 58146864-4743-4127-815e-0dc5d63d91e9
-  projectName: project
-  organizationId: mrfrigid
+  cloudProjectId: 23c17af5-dc1d-47a0-a12b-f1495a348d08
+  projectName: project (3)
+  organizationId: yangyiming0516
   cloudEnabled: 0
   enableNativePlatformBackendsForNewInputSystem: 0
   disableOldInputManagerSupport: 0
