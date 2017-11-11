@@ -14,5 +14,5 @@ MonoBehaviour:
   id: 3
   icon: {fileID: 21300000, guid: 0f100419c2eb529408cec011cb705755, type: 3}
   background: {fileID: 0}
-  toolTip: 
+  toolTip: Happy
   closeAfterSelected: 1
