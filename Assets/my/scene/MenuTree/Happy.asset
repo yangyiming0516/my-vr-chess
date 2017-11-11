@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Happy
   m_EditorClassIdentifier: 
   id: 3
-  icon: {fileID: 21300000, guid: 69f77323e2ac10e488d775426bbdf06f, type: 3}
-  background: {fileID: 21300000, guid: 0f100419c2eb529408cec011cb705755, type: 3}
+  icon: {fileID: 21300000, guid: 0f100419c2eb529408cec011cb705755, type: 3}
+  background: {fileID: 0}
   toolTip: 
   closeAfterSelected: 1
