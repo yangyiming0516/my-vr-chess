@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3d3480dc2db50146bf7ac1c7c2d6e77, type: 3}
   m_Name: Sit
   m_EditorClassIdentifier: 
-  id: 0
+  id: 10
   icon: {fileID: 21300000, guid: 7b928fa03d7aea14999c35a768e3cbfe, type: 3}
   background: {fileID: 0}
   toolTip: Sit

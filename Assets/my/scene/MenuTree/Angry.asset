@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e3d3480dc2db50146bf7ac1c7c2d6e77, type: 3}
   m_Name: Angry
   m_EditorClassIdentifier: 
-  id: 0
+  id: 6
   icon: {fileID: 21300000, guid: e76bfa918025fe349972cd45ac2023c0, type: 3}
   background: {fileID: 0}
   toolTip: Angry

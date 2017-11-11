@@ -11,7 +11,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9d91655c326ddc4cb1c5682d54bf4ac, type: 3}
   m_Name: ClickMenuTree
   m_EditorClassIdentifier: 
-  id: 0
+  id: 100
   icon: {fileID: 0}
   background: {fileID: 0}
   toolTip: 
