@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Emotion
   m_EditorClassIdentifier: 
   id: 0
-  icon: {fileID: 21300000, guid: ef96844392f61f141bb4316b1cbf7fc6, type: 3}
+  icon: {fileID: 21300000, guid: 046d14b6543c5d8489c6cf4766480cbe, type: 3}
   background: {fileID: 0}
   toolTip: Emotion
   closeAfterSelected: 1

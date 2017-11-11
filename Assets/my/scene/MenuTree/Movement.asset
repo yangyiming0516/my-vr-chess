@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Movement
   m_EditorClassIdentifier: 
   id: 2
-  icon: {fileID: 21300000, guid: 27876b28344403348b0e1203abb05126, type: 3}
+  icon: {fileID: 21300000, guid: 7ccdd30e26d6487488055dcb8aac2242, type: 3}
   background: {fileID: 0}
   toolTip: Movement
   closeAfterSelected: 1

@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Name: Sad
   m_EditorClassIdentifier: 
   id: 4
-  icon: {fileID: 21300000, guid: ef724868bf11f5e41917366463fd8438, type: 3}
+  icon: {fileID: 21300000, guid: e3c8e24523120444b8b4d0aae359501b, type: 3}
   background: {fileID: 0}
   toolTip: 
   closeAfterSelected: 1
