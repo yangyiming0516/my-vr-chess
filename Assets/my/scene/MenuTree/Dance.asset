@@ -8,7 +8,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: a9d91655c326ddc4cb1c5682d54bf4ac, type: 3}
+  m_Script: {fileID: 11500000, guid: e3d3480dc2db50146bf7ac1c7c2d6e77, type: 3}
   m_Name: Dance
   m_EditorClassIdentifier: 
   id: 0
@@ -16,6 +16,3 @@ MonoBehaviour:
   background: {fileID: 0}
   toolTip: 
   closeAfterSelected: 1
-  tree:
-    serializedRoot: []
-    expanded: 0
