@@ -17,7 +17,6 @@ namespace DaydreamElements.ArmModels {
   using System.Collections;
   using System.Collections.Generic;
   using UnityEngine;
-  using DaydreamElements.Common;
 
   public class BallSpawner : MonoBehaviour {
 

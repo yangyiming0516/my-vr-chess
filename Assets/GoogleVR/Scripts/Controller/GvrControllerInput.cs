@@ -13,6 +13,7 @@
 // limitations under the License.
 
 using UnityEngine;
+using UnityEngine.VR;
 using System;
 using System.Collections;
 
@@ -485,13 +486,6 @@ public class GvrControllerInput : MonoBehaviour {
 
       controllerProvider.ReadState(controllerState);
       UpdateTouchPosCentered();
-
-#if UNITY_EDITOR
-      // Make sure the EditorEmulator is updated immediately.
-      if (GvrEditorEmulator.Instance != null) {
-        GvrEditorEmulator.Instance.UpdateEditorEmulation();
-      }
-#endif  // UNITY_EDITOR
 
       if (OnStateChanged != null && State != oldState) {
         OnStateChanged(State, oldState);
