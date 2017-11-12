@@ -60805,11 +60805,11 @@ Prefab:
         type: 2}
     - target: {fileID: 573655681, guid: 34c21f523e72f45509a4e37ed0293c3b, type: 2}
       propertyPath: defaultReticleDistance
-      value: 2.5
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 573655681, guid: 34c21f523e72f45509a4e37ed0293c3b, type: 2}
       propertyPath: maxPointerDistance
-      value: 2.5
+      value: 20
       objectReference: {fileID: 0}
     - target: {fileID: 573655681, guid: 34c21f523e72f45509a4e37ed0293c3b, type: 2}
       propertyPath: raycastMode
