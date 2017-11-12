@@ -43,6 +43,7 @@ public class piece : MonoBehaviour {
             else
             {
                 fall = false;
+                gameObject.transform.position.Set(gameObject.transform.position.x, 0, gameObject.transform.position.z);
                 sound.Play();
             }
         if (moving)
