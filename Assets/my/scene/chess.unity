@@ -2054,6 +2054,7 @@ MonoBehaviour:
   P: {fileID: 2104515145}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &59172717
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -3081,6 +3082,7 @@ MonoBehaviour:
   P: {fileID: 1854519477}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &82988563
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5062,6 +5064,7 @@ MonoBehaviour:
   P: {fileID: 1390062911}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &154376413
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5761,6 +5764,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &174579265
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -5922,6 +5926,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &178264624
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -7948,6 +7953,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &246491022
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -8047,6 +8053,7 @@ MonoBehaviour:
   P: {fileID: 1901458241}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &246900942
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -9954,6 +9961,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &317483136
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -10173,6 +10181,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &318363600
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11486,6 +11495,7 @@ MonoBehaviour:
   P: {fileID: 358400876}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &361933767
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -11751,6 +11761,7 @@ MonoBehaviour:
   P: {fileID: 211432687}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &373805228
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12344,6 +12355,7 @@ MonoBehaviour:
   P: {fileID: 486022915}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &385779513
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -12443,6 +12455,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &387186373
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13526,6 +13539,7 @@ MonoBehaviour:
   P: {fileID: 729233859}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &415185474
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -13871,6 +13885,7 @@ MonoBehaviour:
   P: {fileID: 1111845116}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &423435650
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -15672,6 +15687,7 @@ MonoBehaviour:
   P: {fileID: 757855826}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &511823293
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16682,6 +16698,7 @@ MonoBehaviour:
   P: {fileID: 955812207}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &541572006
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -16839,6 +16856,7 @@ MonoBehaviour:
   P: {fileID: 1122685034}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &545475239
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -17097,6 +17115,7 @@ MonoBehaviour:
   P: {fileID: 2121265036}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &553626775
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -20133,6 +20152,7 @@ MonoBehaviour:
   P: {fileID: 1952906320}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &675718677
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -21569,6 +21589,7 @@ MonoBehaviour:
   P: {fileID: 1011290160}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &739387690
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26694,6 +26715,7 @@ MonoBehaviour:
   P: {fileID: 674950752}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &954233750
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -26878,6 +26900,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &955942794
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27089,6 +27112,7 @@ MonoBehaviour:
   P: {fileID: 1043140946}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &961783886
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27308,6 +27332,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &965340696
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -27407,6 +27432,7 @@ MonoBehaviour:
   P: {fileID: 694272255}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &965610811
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -30506,6 +30532,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1074072609
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32063,6 +32090,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1109045131
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -32587,6 +32615,7 @@ MonoBehaviour:
   P: {fileID: 2103290447}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1113217165
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -33899,6 +33928,7 @@ MonoBehaviour:
   P: {fileID: 1129827495}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1148945003
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -35584,6 +35614,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1213217746
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -36095,6 +36126,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1248086624
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -36146,6 +36178,115 @@ MeshFilter:
   m_PrefabInternal: {fileID: 0}
   m_GameObject: {fileID: 1248086621}
   m_Mesh: {fileID: 10202, guid: 0000000000000000e000000000000000, type: 0}
+--- !u!1 &1248120195
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  serializedVersion: 5
+  m_Component:
+  - component: {fileID: 1248120196}
+  - component: {fileID: 1248120197}
+  m_Layer: 0
+  m_Name: select
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &1248120196
+Transform:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1248120195}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 1975449209}
+  m_RootOrder: 10
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!82 &1248120197
+AudioSource:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 1248120195}
+  m_Enabled: 1
+  serializedVersion: 4
+  OutputAudioMixerGroup: {fileID: 0}
+  m_audioClip: {fileID: 8300000, guid: 999791c40db40c04db76d10c7ce32d7c, type: 3}
+  m_PlayOnAwake: 0
+  m_Volume: 0.35
+  m_Pitch: 1
+  Loop: 0
+  Mute: 0
+  Spatialize: 0
+  SpatializePostEffects: 0
+  Priority: 128
+  DopplerLevel: 1
+  MinDistance: 1
+  MaxDistance: 500
+  Pan2D: 0
+  rolloffMode: 0
+  BypassEffects: 0
+  BypassListenerEffects: 0
+  BypassReverbZones: 0
+  rolloffCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    - serializedVersion: 2
+      time: 1
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  panLevelCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
+  spreadCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 0
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 4
+  reverbZoneMixCustomCurve:
+    serializedVersion: 2
+    m_Curve:
+    - serializedVersion: 2
+      time: 0
+      value: 1
+      inSlope: 0
+      outSlope: 0
+      tangentMode: 0
+    m_PreInfinity: 2
+    m_PostInfinity: 2
+    m_RotationOrder: 0
 --- !u!1001 &1248813600
 Prefab:
   m_ObjectHideFlags: 0
@@ -36244,6 +36385,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1249181662
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -37979,6 +38121,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1316303133
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38538,6 +38681,7 @@ MonoBehaviour:
   P: {fileID: 201593134}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1344577967
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38807,6 +38951,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1352930410
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -38976,6 +39121,7 @@ MonoBehaviour:
   P: {fileID: 1420489587}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1357446401
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -39684,6 +39830,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1391444168
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -40141,6 +40288,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1400118599
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -41728,6 +41876,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1446770843
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -42586,6 +42735,7 @@ MonoBehaviour:
   P: {fileID: 529183274}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1476001735
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43110,6 +43260,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1494156408
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -43863,6 +44014,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1518518711
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -44855,6 +45007,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1539523928
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -47353,6 +47506,7 @@ MonoBehaviour:
   P: {fileID: 406734681}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1659818274
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -48015,6 +48169,7 @@ MonoBehaviour:
   P: {fileID: 1587489148}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1684138674
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -49470,6 +49625,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1732098264
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -50634,6 +50790,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1785784570
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -51508,6 +51665,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1810482123
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -53191,6 +53349,7 @@ MonoBehaviour:
   P: {fileID: 426526786}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1887274391
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -53340,6 +53499,7 @@ MonoBehaviour:
   P: {fileID: 1494061176}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1888775128
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -53485,6 +53645,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1892433240
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -54641,6 +54802,7 @@ MonoBehaviour:
   P: {fileID: 222504597}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1935588577
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -54939,6 +55101,7 @@ MonoBehaviour:
   P: {fileID: 20908270}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1948063118
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -55123,6 +55286,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1957145245
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -55627,6 +55791,7 @@ Transform:
   - {fileID: 239808607}
   - {fileID: 596326910}
   - {fileID: 409547345}
+  - {fileID: 1248120196}
   m_Father: {fileID: 0}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -55678,6 +55843,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1976180348
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -55777,6 +55943,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1979083323
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -56587,6 +56754,7 @@ MonoBehaviour:
   P: {fileID: 1149896250}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &1998493637
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -56810,6 +56978,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &2002675251
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -58317,6 +58486,7 @@ MonoBehaviour:
   P: {fileID: 1981216568}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &2049403948
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -58478,6 +58648,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &2054442099
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -59939,6 +60110,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &2126910235
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -60166,6 +60338,7 @@ MonoBehaviour:
   P: {fileID: 0}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &2131778186
 MeshRenderer:
   m_ObjectHideFlags: 0
@@ -60315,6 +60488,7 @@ MonoBehaviour:
   P: {fileID: 1870015768}
   temp_piece: {fileID: 0}
   B: {fileID: 393346282}
+  selected: {fileID: 1248120197}
 --- !u!23 &2134645498
 MeshRenderer:
   m_ObjectHideFlags: 0

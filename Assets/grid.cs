@@ -13,6 +13,7 @@ public class grid : MonoBehaviour {
     public GameObject temp_piece = null;
     public board B;
     private bool occupied;
+    public AudioSource selected;
 
 	// Use this for initialization
 	void Start () {
@@ -31,12 +32,18 @@ public class grid : MonoBehaviour {
         if (B.status == 0)
         {
             if (temp_piece != null && ((piece)temp_piece.GetComponent(typeof(piece))).side == B.next)
+            {
+                selected.Play();
                 GetComponent<Renderer>().material = selected_material;
+            }
         }
         else
         {
             if (temp_piece == null || ((piece)temp_piece.GetComponent(typeof(piece))).side != B.next)
+            {
+                selected.Play();
                 GetComponent<Renderer>().material = nextmove_material;
+            }
         }
         
     }
