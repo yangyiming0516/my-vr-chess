@@ -42,8 +42,8 @@ public class piece : MonoBehaviour {
             }
             else
             {
-                sound.Play();
                 fall = false;
+                sound.Play();
             }
         if (moving)
         {
