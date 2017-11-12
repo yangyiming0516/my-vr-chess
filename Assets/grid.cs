@@ -28,7 +28,6 @@ public class grid : MonoBehaviour {
 
     public void pointed()
     {
-        Debug.Log("pointed");
         if (B.status == 0)
         {
             if (temp_piece != null && ((piece)temp_piece.GetComponent(typeof(piece))).side == B.next)
