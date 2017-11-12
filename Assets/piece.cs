@@ -13,6 +13,7 @@ public class piece : MonoBehaviour {
     Vector3 target;
     public board B;
     float delta = 0.01f;
+    public AudioSource sound;
 
     // Use this for initialization
     void Start () {
@@ -41,6 +42,7 @@ public class piece : MonoBehaviour {
             }
             else
             {
+                sound.Play();
                 fall = false;
             }
         if (moving)
