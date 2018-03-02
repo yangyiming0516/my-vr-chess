@@ -28,4 +28,4 @@ Or some movements, for example, let's dance:
 ![movement](https://raw.githubusercontent.com/yangyiming0516/my-vr-chess/master/example_pic/movement.png)
 ![dance](https://raw.githubusercontent.com/yangyiming0516/my-vr-chess/master/example_pic/dance.png)
 
-all operations above hace interesting sounds
+all operations above have interesting sounds
